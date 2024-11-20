@@ -130,11 +130,11 @@ Esse projeto é uma implementação básica para controle remoto e local de disp
 ## Arquitetura
 
 <p align="center">
-  <img alt="Arquitetura Integração Alexa" src="../.github/Aula.png" width="700">
+  <img alt="Arquitetura Integração Alexa" src="github/Aula.png" width="700">
 </p>
 
 ## Imagens do Desenvolvimento do Projeto
 
 <p align="center">
-  <img alt="Gif do desenvolvimento do projeto" src="../.github/Lampada.png" width="700">
+  <img alt="Gif do desenvolvimento do projeto" src="github/Lampada.png" width="700">
 </p>
